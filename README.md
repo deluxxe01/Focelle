@@ -58,5 +58,10 @@ A plataforma permite que o usuário personalize diversos aspectos do seu óculos
    - Azul Fosco
   
 5. **Gravação Personalizada**
-   - Nome gravado na haste  
+   - Nome gravado na parte interna da haste  (Permitido até 20 caracteres)
+   - Simbolos disponivéis gravado na parte externa da haste:
+   - ❤ Coração
+   - 🎶 Música
+   - ⭐ Estrela
+   - 🌞 Sol
 
