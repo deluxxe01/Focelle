@@ -61,7 +61,7 @@ A plataforma permite que o usuário personalize diversos aspectos do seu óculos
    - Nome gravado na parte interna da haste  (Permitido até 20 caracteres)
    - Simbolos disponivéis gravado na parte externa da haste:
    - ❤ Coração
-   - 🎶 Música
+   - 🌜 Lua
    - ⭐ Estrela
    - 🌞 Sol
 
