@@ -54,7 +54,7 @@ A plataforma permite que o usuário personalize diversos aspectos do seu óculos
    - Preto  
    - Dourado
    - Rosa
-   - Azul Fosco
+   - Turquesa
   
 5. **Gravação Personalizada**
    - Nome gravado na parte interna da haste  (Permitido até 20 caracteres)
