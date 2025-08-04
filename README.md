@@ -1,7 +1,7 @@
 # Focelle
 uma loja virtual de óculos onde o usuario pode criar o seu próprio modelo personalizado de acordo com seu estilo e necessidades. A plataforma oferece uma experiência interativa e intuitiva, permitindo visualizar em tempo real como o óculos ficará, unindo tecnologia, design e praticidade para entregar um produto exclusivo, feito sob medida para cada cliente.
 
-## Funcionalidades
+##🚀 Funcionalidades
 1. [ ] **Personalização de óculos**  
    Interface interativa para que o cliente personalize seu óculos.  
    **Características**: Tamanho, formato de lente, tipo de lente, cores e gravações personalizadas.
@@ -30,7 +30,7 @@ uma loja virtual de óculos onde o usuario pode criar o seu próprio modelo pers
    Modelos prontos para visualização, adaptação e personalização.  
    - Templates inspiradores disponíveis para customização
 
-## Características customizáveis 
+##🌟 Características customizáveis 
 A plataforma permite que o usuário personalize diversos aspectos do seu óculos. Abaixo estão 5 características personalizáveis e seus possíveis valores:
 
 1. **Tamanho da Armação**
