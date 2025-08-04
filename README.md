@@ -30,5 +30,32 @@ uma loja virtual de óculos onde o usuario pode criar o seu próprio modelo pers
    Modelos prontos para visualização, adaptação e personalização.  
    - Templates inspiradores disponíveis para customização
 
+## Características customizáveis 
+A plataforma permite que o usuário personalize diversos aspectos do seu óculos. Abaixo estão 5 características personalizáveis e seus possíveis valores:
 
+1. **Tamanho da Armação**
+   - Pequeno (P): Lentes de até 54 mm. 
+   - Médio (M): Lentes de 55 mm a 58 mm.
+   - Grande (G): Lentes com mais de 59 mm. 
+     
+2. **Formato da Armação**
+   - Redondo  
+   - Quadrado  
+   - Retângulo
+   - Oval
+
+3. **Tipo de Lente**
+   - Lente de Grau  
+   - Lente Solar com Proteção UV
+ℹ️ **Nota:** Ao selecionar a *Lente de Grau*, a lente será transparente por padrão. Isso pode impactar a percepção visual da cor da armação escolhida.
+
+4. **Cor da Armação**
+   - Preto  
+   - Dourado
+   - Rosa
+   - Verde
+   - Azul Fosco
+  
+5. **Gravação Personalizada**
+   - Nome gravado na haste  
 
