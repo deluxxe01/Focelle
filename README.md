@@ -54,7 +54,6 @@ A plataforma permite que o usuário personalize diversos aspectos do seu óculos
    - Preto  
    - Dourado
    - Rosa
-   - Verde
    - Azul Fosco
   
 5. **Gravação Personalizada**
