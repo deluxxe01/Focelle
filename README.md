@@ -2,9 +2,9 @@
 uma loja virtual de óculos onde o usuario pode criar o seu próprio modelo personalizado de acordo com seu estilo e necessidades. A plataforma oferece uma experiência interativa e intuitiva, permitindo visualizar em tempo real como o óculos ficará, unindo tecnologia, design e praticidade para entregar um produto exclusivo, feito sob medida para cada cliente.
 
 ## Colaboradores
-  - Maria Eduarda Klin de Carvalho
-  - Vithor Lorram Valente
-  - Caio Lorram Valente
+  - Maria Eduarda Klin de Carvalho: [GitHub](https://github.com/deluxxe01)
+  - Vithor Lorram Valente: [GitHub](https://github.com/deluxxe01)
+  - Caio Lorram Valente: [GitHub](https://github.com/deluxxe01)
     
 ## Funcionalidades
 1. [ ] **Personalização de óculos**  
