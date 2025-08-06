@@ -53,9 +53,7 @@ A plataforma permite que o usuário personalize diversos aspectos do seu óculos
 
 3. **Tipo de Lente**
    - Lente de Grau  
-   - Lente Solar com Proteção UV
-     
-> ℹ️ **Nota:** Ao selecionar a *Lente de Grau*, a lente será transparente por padrão. Isso pode impactar a percepção visual da cor da armação escolhida.
+   - Lente Solar com Proteção UV    
 
 4. **Cor da Armação**
    - Preto  
