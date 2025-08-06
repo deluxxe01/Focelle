@@ -48,6 +48,8 @@ A plataforma permite que o usuário personalize diversos aspectos do seu óculos
    - Quadrado  
    - Retângulo
    - Oval
+   - Cat eyes
+   - Hexagonal
 
 3. **Tipo de Lente**
    - Lente de Grau  
@@ -58,7 +60,6 @@ A plataforma permite que o usuário personalize diversos aspectos do seu óculos
 4. **Cor da Armação**
    - Preto  
    - Dourado
-   - Rosa
    - Turquesa
   
 5. **Gravação Personalizada**
@@ -68,4 +69,6 @@ A plataforma permite que o usuário personalize diversos aspectos do seu óculos
    - 🌜 Lua
    - ⭐ Estrela
    - 🌞 Sol
+   - 🧿 Olho Grego
+   - 🎵 Música
 
