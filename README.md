@@ -7,11 +7,11 @@ uma loja virtual de óculos onde o usuario pode criar o seu próprio modelo pers
   - [Caio Lorram Valente](https://github.com/caiolorramvalente)
     
 ## Funcionalidades
-1. [x] **Personalização de óculos**  
+1. [ ] **Personalização de óculos**  
    Interface interativa para que o cliente personalize seu óculos.  
    **Características**: Tamanho, formato de lente, tipo de lente, cores e gravações personalizadas.
 
-2. [x] **Integração com a máquina 4.0**  
+2. [ ] **Integração com a máquina 4.0**  
    Conexão direta entre o software de personalização e a máquina Smart 4.0.  
    - Envio automático das especificações do cliente para o sistema de fabricação  
    - Simulação do processo de montagem em tempo real
